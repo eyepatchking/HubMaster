@@ -1,0 +1,17 @@
+*.exe
+*.deb
+*.db
+*.jsonl
+*.log
+*.backup
+*.pem
+*.key
+state.json
+policy.json
+enrolled.json
+local.json
+queue/
+
+.env
+.env.*
+!.env.example
